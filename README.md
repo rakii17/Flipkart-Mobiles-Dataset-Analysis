@@ -21,7 +21,7 @@ The **Flipkart Mobiles Dataset Analysis Project** leverages a dataset sourced fr
    - Obtain Power BI Desktop from the [official Power BI website](https://powerbi.microsoft.com/).
 
 2. **Download the Dataset:**
-   - Download the dataset from Kaggle. You can find it [here](https://www.kaggle.com/datasets). The dataset should be saved as `flipkart_mobiles.csv`.
+   - Download the dataset from Kaggle. You can find it [here]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/devsubhash/flipkart-mobiles-dataset/data?select=Flipkart_Mobiles.csv)). The dataset should be saved as `flipkart_mobiles.csv`.
 
 3. **Open the Power BI File:**
    - Launch Power BI Desktop.
